@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13768" started-at="2020-05-07T09:18:42Z" finished-at="2020-05-07T09:18:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13768" started-at="2020-05-07T09:18:42Z" finished-at="2020-05-07T09:18:56Z">
+      <class name="dummyTestApis.SnakeAndLadders">
+        <test-method status="PASS" signature="init()[pri:0, instance:dummyTestApis.SnakeAndLadders@523884b2]" name="init" is-config="true" duration-ms="16" started-at="2020-05-07T14:48:42Z" finished-at="2020-05-07T14:48:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="add_new_player_check()[pri:1, instance:dummyTestApis.SnakeAndLadders@523884b2]" name="add_new_player_check" duration-ms="5329" started-at="2020-05-07T14:48:42Z" finished-at="2020-05-07T14:48:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_new_player_check -->
+        <test-method status="PASS" signature="register_player_check()[pri:1, instance:dummyTestApis.SnakeAndLadders@523884b2]" name="register_player_check" duration-ms="2596" started-at="2020-05-07T14:48:47Z" finished-at="2020-05-07T14:48:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_player_check -->
+        <test-method status="PASS" signature="check_if_there_are_4_players()[pri:2, instance:dummyTestApis.SnakeAndLadders@523884b2]" name="check_if_there_are_4_players" duration-ms="326" started-at="2020-05-07T14:48:50Z" finished-at="2020-05-07T14:48:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_if_there_are_4_players -->
+        <test-method status="PASS" signature="check_status_code()[pri:3, instance:dummyTestApis.SnakeAndLadders@523884b2]" name="check_status_code" duration-ms="369" started-at="2020-05-07T14:48:50Z" finished-at="2020-05-07T14:48:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_status_code -->
+        <test-method status="PASS" signature="player_already_exists_test()[pri:4, instance:dummyTestApis.SnakeAndLadders@523884b2]" name="player_already_exists_test" duration-ms="304" started-at="2020-05-07T14:48:51Z" finished-at="2020-05-07T14:48:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- player_already_exists_test -->
+        <test-method status="PASS" signature="check_for_delete_player()[pri:5, instance:dummyTestApis.SnakeAndLadders@523884b2]" name="check_for_delete_player" duration-ms="1561" started-at="2020-05-07T14:48:51Z" finished-at="2020-05-07T14:48:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_for_delete_player -->
+        <test-method status="PASS" signature="check_update_players()[pri:6, instance:dummyTestApis.SnakeAndLadders@523884b2]" name="check_update_players" duration-ms="911" started-at="2020-05-07T14:48:53Z" finished-at="2020-05-07T14:48:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_update_players -->
+        <test-method status="PASS" signature="rolldice_check()[pri:7, instance:dummyTestApis.SnakeAndLadders@523884b2]" name="rolldice_check" duration-ms="966" started-at="2020-05-07T14:48:53Z" finished-at="2020-05-07T14:48:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rolldice_check -->
+        <test-method status="PASS" signature="test_version_v2_access_check()[pri:8, instance:dummyTestApis.SnakeAndLadders@523884b2]" name="test_version_v2_access_check" duration-ms="743" started-at="2020-05-07T14:48:54Z" finished-at="2020-05-07T14:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_version_v2_access_check -->
+        <test-method status="PASS" signature="invalid_turn_exception()[pri:9, instance:dummyTestApis.SnakeAndLadders@523884b2]" name="invalid_turn_exception" duration-ms="572" started-at="2020-05-07T14:48:55Z" finished-at="2020-05-07T14:48:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalid_turn_exception -->
+      </class> <!-- dummyTestApis.SnakeAndLadders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
